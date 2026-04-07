@@ -1,0 +1,86 @@
+[
+    {
+        "nombre": "nombre 1",
+        "precio": 39,
+        "stock": 48,
+        "marca": "marca 1",
+        "id": "1"
+    },
+    {
+        "nombre": "nombre 2",
+        "precio": 35,
+        "stock": 26,
+        "marca": "marca 2",
+        "id": "2"
+    },
+    {
+        "nombre": "nombre 3",
+        "precio": 96,
+        "stock": 34,
+        "marca": "marca 3",
+        "id": "3"
+    },
+    {
+        "nombre": "nombre 4",
+        "precio": 93,
+        "stock": 68,
+        "marca": "marca 4",
+        "id": "4"
+    },
+    {
+        "nombre": "nombre 5",
+        "precio": 64,
+        "stock": 36,
+        "marca": "marca 5",
+        "id": "5"
+    },
+    {
+        "nombre": "nombre 6",
+        "precio": 35,
+        "stock": 36,
+        "marca": "marca 6",
+        "id": "6"
+    },
+    {
+        "nombre": "nombre 7",
+        "precio": 3,
+        "stock": 99,
+        "marca": "marca 7",
+        "id": "7"
+    },
+    {
+        "nombre": "nombre 8",
+        "precio": 12,
+        "stock": 54,
+        "marca": "marca 8",
+        "id": "8"
+    },
+    {
+        "nombre": "nombre 9",
+        "precio": 7,
+        "stock": 70,
+        "marca": "marca 9",
+        "id": "9"
+    },
+    {
+        "nombre": "nombre 10",
+        "precio": 100,
+        "stock": 54,
+        "marca": "marca 10",
+        "id": "10"
+    },
+    {
+        "nombre": "nombre 11",
+        "precio": 63,
+        "stock": 97,
+        "marca": "marca 11",
+        "id": "11"
+    },
+    {
+        "nombre": "nombre 12",
+        "precio": 67,
+        "stock": 60,
+        "marca": "marca 12",
+        "id": "12"
+    }
+]
