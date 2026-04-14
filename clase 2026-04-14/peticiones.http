@@ -1,0 +1,28 @@
+### Viendo peticiones
+
+# GET - IES 21
+GET https://ies21.edu.ar/
+
+### -------------------------------------------
+# GET - Productos
+GET https://69cbcb780b417a19e07b42c1.mockapi.io/api/v1/Productos
+
+### -------------------------------------------
+# GET - local
+GET http://localhost:3000
+
+
+### -------------------------------------------
+# POST
+POST http://localhost:3000
+Content-Type: 'text/plain'
+
+Contenido sdgsdgsdgds
+
+### -------------------------------------------
+# PUT
+PUT http://localhost:3000
+
+### -------------------------------------------
+# DELETE
+DELETE http://localhost:3000
