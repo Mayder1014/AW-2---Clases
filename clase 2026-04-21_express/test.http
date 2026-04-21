@@ -1,0 +1,9 @@
+### GET
+
+GET http://localhost:3014
+
+###
+GET http://localhost:3014/saludo
+
+### POST
+POST http://192.169.0.129:3000/aguero
