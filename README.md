@@ -11,3 +11,5 @@ Repositorio de clases
 - Clase 04/23: Repaso ExpressJS
 
 - Clase 04/28: Más repaso ExpressJS y Middlewares
+
+- Clase 05/05: API REST (Tambien usamos thunder client)
