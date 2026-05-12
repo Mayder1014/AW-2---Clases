@@ -2,7 +2,7 @@
 
 Repositorio de clases
 
-- Clase 04/07: introduccion a node
+- Clase 04/07: Introduccion a node
 
 - Clase 04/14: Modulos HTTP
 
@@ -14,4 +14,6 @@ Repositorio de clases
 
 - Clase 05/05: API REST (Tambien usamos thunder client)
 
-- Clase 07/05: Más de API REST (Seguimos con lo que quedó de la clase pasada)
+- Clase 05/07: Más de API REST (Seguimos con lo que quedó de la clase pasada)
+
+- Clase 05/12: Arquitectura MVC
