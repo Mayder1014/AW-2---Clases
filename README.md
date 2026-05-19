@@ -17,3 +17,10 @@ Repositorio de clases
 - Clase 05/07: Más de API REST (Seguimos con lo que quedó de la clase pasada)
 
 - Clase 05/12: Arquitectura MVC
+
+- Clase 05/19: Más sobre MVC (Vista - Router), PostgreSQL y Docker
+> Empezar a usar pnpm (npx pnpm i)
+> Instalar PostgreSQL (directamente, o via docker o supabase)
+> Docker: Contenedores
+> imagenes: https://hub.docker.com/ -> Instancia de contenedor
+> database client (extension)
