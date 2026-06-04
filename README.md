@@ -24,3 +24,5 @@ Repositorio de clases
 > Docker: Contenedores
 > imagenes: https://hub.docker.com/ -> Instancia de contenedor
 > database client (extension)
+
+- Clase 06/04: Login con cookies
