@@ -19,10 +19,14 @@ Repositorio de clases
 - Clase 05/12: Arquitectura MVC
 
 - Clase 05/19: Más sobre MVC (Vista - Router), PostgreSQL y Docker
-> Empezar a usar pnpm (npx pnpm i)
+> Empezar a usar pnpm (npm i -g pnpm)
 > Instalar PostgreSQL (directamente, o via docker o supabase)
 > Docker: Contenedores
 > imagenes: https://hub.docker.com/ -> Instancia de contenedor
 > database client (extension)
 
 - Clase 06/04: Login con cookies
+> Nuevos paquetes: cookie-parser
+
+- Clase 06/09: Hashing de claves
+> Nuevos paquetes: bcryptjs, nanoid
