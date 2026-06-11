@@ -30,3 +30,6 @@ Repositorio de clases
 
 - Clase 06/09: Hashing de claves
 > Nuevos paquetes: bcryptjs, nanoid
+
+- Clase 06/11: JWT (JSON Web Tokens)
+> Nuevos paquetes: jsonwebtoken
